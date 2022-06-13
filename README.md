@@ -11,4 +11,6 @@ POST /updateevent - This endpoint is used to update the successfull access time 
 Dbname - events
 
 # Database Instance Name 
-db-events-<env>
+db-events- <env>
+
+  env can be test,perf or prod
