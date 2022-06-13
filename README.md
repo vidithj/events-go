@@ -14,3 +14,6 @@ Dbname - events
 db-events- <env>
 
   env can be test,perf or prod
+  
+# Database export 
+  events.json
